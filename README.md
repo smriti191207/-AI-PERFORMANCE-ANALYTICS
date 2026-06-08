@@ -167,7 +167,20 @@ No confidential employee information, company data, or client data has been used
 * Department-Level Benchmarking
 * Advanced Workforce Analytics
 
----
+---## Sample Outputs
+
+### Sentiment Analysis Output
+
+![Sentiment Analysis](screenshots/sentiment_analysis.png)
+
+### Workforce Insights
+
+![Insights](screenshots/insights.png)
+
+### Correlation Analysis
+
+![Heatmap](screenshots/heatmap.png)
+
 
 ## Author
 
