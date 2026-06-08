@@ -179,4 +179,4 @@ Chennai Institute of Technology
 
 GitHub: https://github.com/smriti191207
 
-LinkedIn: https://linkedin.com/in/SMRITIpurshothaman
+LinkedIn: https://linkedin.com/in/SMRITIpurushothaman
