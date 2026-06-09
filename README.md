@@ -24,8 +24,6 @@ This project uses AI and NLP techniques to extract meaningful insights from empl
 * Rating Gap Analysis
 * Performance Analytics
 * Correlation Analysis
-* Workforce Insights Generation
-* Multi-Company Analysis Support
 
 ---
 
