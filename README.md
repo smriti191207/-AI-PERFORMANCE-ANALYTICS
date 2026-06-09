@@ -58,18 +58,13 @@ This project uses AI and NLP techniques to extract meaningful insights from empl
 ## Project Workflow
 
 Input HR Data
-↓
-Data Cleaning & Preprocessing
-↓
-Sentiment Analysis using DistilBERT
-↓
-Feature Engineering
-↓
+-->
+Data Cleaning & Preprocessing-->
+Sentiment Analysis using DistilBERT-->
+Feature Engineering-->
 Gap Analysis
-↓
-Correlation Analysis
-↓
-Workforce Insights Generation
+-->
+Correlation Analysis-->
 
 ---
 
